@@ -50,8 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\SmoothCameraFollow.cs" />
+    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
+    <Compile Include="Assets\ssss.cs" />
     <Compile Include="Assets\Scripts\PlayerMovent.cs" />
-    <Compile Include="Assets\Scripts\EnemyPatrol.cs" />
     <Compile Include="Assets\Scripts\Coin.cs" />
   </ItemGroup>
   <ItemGroup>

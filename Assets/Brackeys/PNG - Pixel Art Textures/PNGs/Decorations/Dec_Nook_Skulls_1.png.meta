@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: e2b24c08417e7aa43b3598be93c1fa58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7993537294383051821
+    second: Dec_Nook_Skulls_1_0
+  - first:
+      213: -5835288997485757860
+    second: Dec_Nook_Skulls_1_1
+  - first:
+      213: -731126702889774695
+    second: Dec_Nook_Skulls_1_2
+  - first:
+      213: 1533568976355555254
+    second: Dec_Nook_Skulls_1_3
+  - first:
+      213: 418072006354331386
+    second: Dec_Nook_Skulls_1_4
+  - first:
+      213: -4392606574369489473
+    second: Dec_Nook_Skulls_1_5
+  - first:
+      213: -8187519095302051993
+    second: Dec_Nook_Skulls_1_6
+  - first:
+      213: 4684510826999073798
+    second: Dec_Nook_Skulls_1_7
+  - first:
+      213: 6455583345110755599
+    second: Dec_Nook_Skulls_1_8
+  - first:
+      213: 8179355530377181667
+    second: Dec_Nook_Skulls_1_9
+  - first:
+      213: -7588768279065606675
+    second: Dec_Nook_Skulls_1_10
+  - first:
+      213: -7207347328824790351
+    second: Dec_Nook_Skulls_1_11
+  - first:
+      213: 7856664846221439264
+    second: Dec_Nook_Skulls_1_12
+  - first:
+      213: -8239549710059083433
+    second: Dec_Nook_Skulls_1_13
+  - first:
+      213: 2134597590275483701
+    second: Dec_Nook_Skulls_1_14
+  - first:
+      213: -1304124374420146267
+    second: Dec_Nook_Skulls_1_15
+  - first:
+      213: 8094378207813506585
+    second: Dec_Nook_Skulls_1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 235
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f98251dfbeee60800000000000000
+      internalID: 7993537294383051821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 224
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5abd1fc293e40fa0800000000000000
+      internalID: -5835288997485757860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 84
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991d37c23248ad5f0800000000000000
+      internalID: -731126702889774695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 223
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b77b3adbd4584510800000000000000
+      internalID: 1533568976355555254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 25
+        width: 83
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6e845564a4dc500800000000000000
+      internalID: 418072006354331386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd39a8f7935a03c0800000000000000
+      internalID: -4392606574369489473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 209
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7672bcc13c6106e80800000000000000
+      internalID: -8187519095302051993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 177
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c40cd07c9b20140800000000000000
+      internalID: 4684510826999073798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 187
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09214769d6d69950800000000000000
+      internalID: 6455583345110755599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e932cfc488e28170800000000000000
+      internalID: 8179355530377181667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 118
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ca8b05774fa690800000000000000
+      internalID: -7588768279065606675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b9846acb5afb90800000000000000
+      internalID: -7207347328824790351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f35e1d0b780d60800000000000000
+      internalID: 7856664846221439264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75961c6913d37ad80800000000000000
+      internalID: -8239549710059083433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53866c2e23d9f9d10800000000000000
+      internalID: 2134597590275483701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a732cf7ac1d6ede0800000000000000
+      internalID: -1304124374420146267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Nook_Skulls_1_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916136a1812055070800000000000000
+      internalID: 8094378207813506585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dec_Nook_Skulls_1_0: 7993537294383051821
+      Dec_Nook_Skulls_1_1: -5835288997485757860
+      Dec_Nook_Skulls_1_10: -7588768279065606675
+      Dec_Nook_Skulls_1_11: -7207347328824790351
+      Dec_Nook_Skulls_1_12: 7856664846221439264
+      Dec_Nook_Skulls_1_13: -8239549710059083433
+      Dec_Nook_Skulls_1_14: 2134597590275483701
+      Dec_Nook_Skulls_1_15: -1304124374420146267
+      Dec_Nook_Skulls_1_16: 8094378207813506585
+      Dec_Nook_Skulls_1_2: -731126702889774695
+      Dec_Nook_Skulls_1_3: 1533568976355555254
+      Dec_Nook_Skulls_1_4: 418072006354331386
+      Dec_Nook_Skulls_1_5: -4392606574369489473
+      Dec_Nook_Skulls_1_6: -8187519095302051993
+      Dec_Nook_Skulls_1_7: 4684510826999073798
+      Dec_Nook_Skulls_1_8: 6455583345110755599
+      Dec_Nook_Skulls_1_9: 8179355530377181667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

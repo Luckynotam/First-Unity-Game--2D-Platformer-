@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: ed03b10cf51f140418ba821619318941
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8773819689120573309
+    second: Dec_Gore_Blood_2_0
+  - first:
+      213: -1460765348582896238
+    second: Dec_Gore_Blood_2_1
+  - first:
+      213: 3476708712811656276
+    second: Dec_Gore_Blood_2_2
+  - first:
+      213: -7539392010324883183
+    second: Dec_Gore_Blood_2_3
+  - first:
+      213: 8821883951793117267
+    second: Dec_Gore_Blood_2_4
+  - first:
+      213: -652921176428298636
+    second: Dec_Gore_Blood_2_5
+  - first:
+      213: -5938148670576802281
+    second: Dec_Gore_Blood_2_6
+  - first:
+      213: -9129795889721965253
+    second: Dec_Gore_Blood_2_7
+  - first:
+      213: -8601066615220649186
+    second: Dec_Gore_Blood_2_8
+  - first:
+      213: 2808161613084195603
+    second: Dec_Gore_Blood_2_9
+  - first:
+      213: 3034404284399676439
+    second: Dec_Gore_Blood_2_10
+  - first:
+      213: -5997984817424249227
+    second: Dec_Gore_Blood_2_11
+  - first:
+      213: -1343217025297657066
+    second: Dec_Gore_Blood_2_12
+  - first:
+      213: 6182227511425870519
+    second: Dec_Gore_Blood_2_13
+  - first:
+      213: 1205937986898039344
+    second: Dec_Gore_Blood_2_14
+  - first:
+      213: 2337756383088051876
+    second: Dec_Gore_Blood_2_15
+  - first:
+      213: 5307950790494207223
+    second: Dec_Gore_Blood_2_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 15
+        width: 152
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d3aa7a712d3680800000000000000
+      internalID: -8773819689120573309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 222
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d4489a7a15abbe0800000000000000
+      internalID: -1460765348582896238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 203
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454f4a66720cf3030800000000000000
+      internalID: 3476708712811656276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119ca2a79e2be5790800000000000000
+      internalID: -7539392010324883183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358195cb6b0ad6a70800000000000000
+      internalID: 8821883951793117267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 207
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e39ac36ab50f6f0800000000000000
+      internalID: -652921176428298636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 207
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716cfcaee35779da0800000000000000
+      internalID: -5938148670576802281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_7
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 210
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b350d4192037c4180800000000000000
+      internalID: -9129795889721965253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e134d4edb7fd2a880800000000000000
+      internalID: -8601066615220649186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 158
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b75cbdb1898f620800000000000000
+      internalID: 2808161613084195603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 168
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce094ae9e5c1a20800000000000000
+      internalID: 3034404284399676439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 177
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ecd355690e2cca0800000000000000
+      internalID: -5997984817424249227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 168
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61350ee6b3feb5de0800000000000000
+      internalID: -1343217025297657066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baaf23ba2fabc550800000000000000
+      internalID: 6182227511425870519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 167
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0321532b53a5cb010800000000000000
+      internalID: 1205937986898039344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a68d516b01617020800000000000000
+      internalID: 2337756383088051876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Gore_Blood_2_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 133
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc39a80f11a9a940800000000000000
+      internalID: 5307950790494207223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dec_Gore_Blood_2_0: -8773819689120573309
+      Dec_Gore_Blood_2_1: -1460765348582896238
+      Dec_Gore_Blood_2_10: 3034404284399676439
+      Dec_Gore_Blood_2_11: -5997984817424249227
+      Dec_Gore_Blood_2_12: -1343217025297657066
+      Dec_Gore_Blood_2_13: 6182227511425870519
+      Dec_Gore_Blood_2_14: 1205937986898039344
+      Dec_Gore_Blood_2_15: 2337756383088051876
+      Dec_Gore_Blood_2_16: 5307950790494207223
+      Dec_Gore_Blood_2_2: 3476708712811656276
+      Dec_Gore_Blood_2_3: -7539392010324883183
+      Dec_Gore_Blood_2_4: 8821883951793117267
+      Dec_Gore_Blood_2_5: -652921176428298636
+      Dec_Gore_Blood_2_6: -5938148670576802281
+      Dec_Gore_Blood_2_7: -9129795889721965253
+      Dec_Gore_Blood_2_8: -8601066615220649186
+      Dec_Gore_Blood_2_9: 2808161613084195603
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: aab0dc5e5bfd25f4cbf15fb4bdfeffd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4328269347965553305
+    second: Dec_Damage_Bullets_2_0
+  - first:
+      213: -4273011261789632487
+    second: Dec_Damage_Bullets_2_1
+  - first:
+      213: 4728857832402055959
+    second: Dec_Damage_Bullets_2_2
+  - first:
+      213: 7229966067208258519
+    second: Dec_Damage_Bullets_2_3
+  - first:
+      213: -6375259382920481920
+    second: Dec_Damage_Bullets_2_4
+  - first:
+      213: 8702584793644820480
+    second: Dec_Damage_Bullets_2_5
+  - first:
+      213: 317562798115466158
+    second: Dec_Damage_Bullets_2_6
+  - first:
+      213: -1260883979270424526
+    second: Dec_Damage_Bullets_2_7
+  - first:
+      213: -4003730365612061550
+    second: Dec_Damage_Bullets_2_8
+  - first:
+      213: -3485567506593470866
+    second: Dec_Damage_Bullets_2_9
+  - first:
+      213: -3066521240464633350
+    second: Dec_Damage_Bullets_2_10
+  - first:
+      213: 1741290511491512258
+    second: Dec_Damage_Bullets_2_11
+  - first:
+      213: -4170495609697011652
+    second: Dec_Damage_Bullets_2_12
+  - first:
+      213: 1427261083064238414
+    second: Dec_Damage_Bullets_2_13
+  - first:
+      213: 6593409890691830031
+    second: Dec_Damage_Bullets_2_14
+  - first:
+      213: 3989536314384463395
+    second: Dec_Damage_Bullets_2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 200
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ac2b13a0a111c30800000000000000
+      internalID: 4328269347965553305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 114
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91809c395e633b4c0800000000000000
+      internalID: -4273011261789632487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 109
+        width: 26
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f5add42740a140800000000000000
+      internalID: 4728857832402055959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 58
+        width: 95
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3831605dff55460800000000000000
+      internalID: 7229966067208258519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0837c0a6e578687a0800000000000000
+      internalID: -6375259382920481920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0086ae4f2cac5c870800000000000000
+      internalID: 8702584793644820480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 69
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab2d8faea5386400800000000000000
+      internalID: 317562798115466158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 78
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238fa9883b0708ee0800000000000000
+      internalID: -1260883979270424526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c8f35f174ef68c0800000000000000
+      internalID: -4003730365612061550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 98
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e662ad0f1d6c0afc0800000000000000
+      internalID: -3485567506593470866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 89
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af15aedcd278175d0800000000000000
+      internalID: -3066521240464633350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7b5349e7e4a2810800000000000000
+      internalID: 1741290511491512258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 56
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38fea6d65c6f16c0800000000000000
+      internalID: -4170495609697011652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 62
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4188c1a466aec310800000000000000
+      internalID: 1427261083064238414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 59
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01db39bc5f708b50800000000000000
+      internalID: 6593409890691830031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dec_Damage_Bullets_2_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 43
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263865f32ead5730800000000000000
+      internalID: 3989536314384463395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dec_Damage_Bullets_2_0: 4328269347965553305
+      Dec_Damage_Bullets_2_1: -4273011261789632487
+      Dec_Damage_Bullets_2_10: -3066521240464633350
+      Dec_Damage_Bullets_2_11: 1741290511491512258
+      Dec_Damage_Bullets_2_12: -4170495609697011652
+      Dec_Damage_Bullets_2_13: 1427261083064238414
+      Dec_Damage_Bullets_2_14: 6593409890691830031
+      Dec_Damage_Bullets_2_15: 3989536314384463395
+      Dec_Damage_Bullets_2_2: 4728857832402055959
+      Dec_Damage_Bullets_2_3: 7229966067208258519
+      Dec_Damage_Bullets_2_4: -6375259382920481920
+      Dec_Damage_Bullets_2_5: 8702584793644820480
+      Dec_Damage_Bullets_2_6: 317562798115466158
+      Dec_Damage_Bullets_2_7: -1260883979270424526
+      Dec_Damage_Bullets_2_8: -4003730365612061550
+      Dec_Damage_Bullets_2_9: -3485567506593470866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

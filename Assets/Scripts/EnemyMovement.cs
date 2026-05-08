@@ -78,6 +78,22 @@ public class EnemyMovement : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             EnemyColider.enabled = false;
+
+        }
+        else if (collision.gameObject.tag == "Enemy")
+        {
+            if (currentDirection == 1)
+            {
+                currentDirection *= -1; 
+                spriteRenderer.flipX = startDirection == 1 ? false : true;
+            }
+            else
+            {
+                currentDirection *= -1;
+                spriteRenderer.flipX = startDirection == 1 ? true : false; 
+
+            }
+
         }
     }
 }

@@ -40,6 +40,7 @@ public class PlayerMovement : MonoBehaviour
             {
                 horizontalInput = -1f;
                 _animator.SetBool("isRunning", true);
+                spriteRenderer.flipX = true; 
 
             }
             else if (Keyboard.current.dKey.isPressed || Keyboard.current.rightArrowKey.isPressed)
@@ -47,6 +48,7 @@ public class PlayerMovement : MonoBehaviour
 
                 horizontalInput = 1f;
                 _animator.SetBool("isRunning", true);
+                spriteRenderer.flipX = false;
             }
             else
             {
@@ -83,6 +85,17 @@ public class PlayerMovement : MonoBehaviour
             body.linearVelocity = new Vector2(body.linearVelocity.x, jumpForce);
             StartCoroutine(BlinkRed());
             if (health <= 0)
+            {
+                Die();
+            }
+        }
+        else if (collision.gameObject.tag == "Enemy")
+        {
+            health -= 25;
+            body.linearVelocity = new Vector2(body.linearVelocity.x, jumpForce);
+            StartCoroutine(BlinkRed());
+            
+            if (health <= 0 )
             {
                 Die();
             }
